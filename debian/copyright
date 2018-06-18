@@ -1,0 +1,114 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Gramps
+Source: https://gramps-project.org
+
+Files: *
+Copyright: 2000-2007, Alex Roitman
+           2000-2002, Bruce J. DeGrasse
+           2000-2008, Donald N. Allingham
+           2000-2007, Martin Hawlisch
+           2001, AndrÃ©s SepÃºlveda
+           2001, David R. Hampton
+           2001-2017, Free Software Foundation, Inc.
+           2001, Graham J. Williams
+           2001, Jesper Zedlitz
+           2001-2017, The Gramps Project
+           2002, Gary Shao
+           2003-2006, Josiah Carlson
+           2004-2006, Eero Tamminen
+           2004-2013, Julio SÃ¡nchez
+           2005-2017, Serge Noiraud
+           2006-2012, Brian G. Matherly
+           2006, 2008-2011, Kees Bakker           
+           2006-2008, Steve Hall
+           2007-2013, Benny Malengier
+           2007-2013, 2015-2016, Douglas S. Blank
+           2007-2012, Gary Burton
+           2007-2011, Jerome Rapinat
+           2007, Johan Gronqvist
+           2007, Robert Cawley
+           2007-2009, Stephane Charette
+           2007-2016, The Gramps Developers
+           2007, Thom Sturgill
+           2007-2008, Zsolt Foldvari
+           2008-2010, 2012-2015, Craig J. Anderson
+           2008-2009, James Friedmann
+           2008-2009, Jason Simanek
+           2008, Lukasz Rymarczyk
+           2008-2010, Peter G. Landgren
+           2008, 2010, Raphael Ackermann
+           2008-2011, Reinhard Mueller
+           2008, 2011, Robert Cheramy
+           2008-2012, Rob G. Healey
+           2008, Stefan Siegel
+           2008-2010, Stephen George
+           2009-2010, Andrew I Baznikin
+           2009, Florian Heinle
+           2009, Gerald W. Britton
+           2009, Igal Shapira
+           2009-2018, Nick Hall
+           2009, Pander Musubi
+           2009, Robert Ham
+           2009, Swoon on bug tracker
+           2009, Yevgeny Zegzda
+           2010, 2015 Gramps
+           2010, Jakim Friant
+           2010, Josip
+           2010, lcc & Robert Jerome
+           2010-2012, Michiel D. Nauta
+           2010-2016, Tim G L Lyons
+           2010-2011, 2014, Vlada Perić
+           2011, Adam Stein
+           2011-2012,  Harald Rosemann
+           2011, 2013, Heinz Brinker
+           2011, Helge Herz
+           2011, 2013 John Ralls
+           2011, 2016 Matt Keenan
+           2011-2017, Paul Franklin
+           2012, lcc
+           2012, 2014, Mathieu MD
+           2012, Nicolas Adenis-Lamarre
+           2013, Artem Glebov
+           2011-2016, Fedir Zinchuk
+           2013-2017, Alois Poettker
+           2013-2014, Vassilii Khachaturov
+           2013, Zissis Papadopoulos
+           2015, Icelandic translators of Gramps
+           2014, Bastien Jacquet
+           2014, Gerald Kunzmann
+           2015, Fabrice
+           2015, Lajos Nemeséri
+           2015, Detlef Wolz
+           2016, Allen Crider
+           2016, DaAwesomeP
+           2016-2017, Paul Culley
+           2016, QuLogic
+           2016, Tom Samstag
+           2017, Mindaugas Baranauskas
+           2017, Robert Carnell
+License: GPL-2+
+
+Files: debian/*
+Copyright: 2001-2002, Brandon L. Griffith
+           2002, Alex Roitman
+           2002-2012, James A. Treacy
+           2013-2018, Ross Gammon
+License: GPL-2+
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this package; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-2'.

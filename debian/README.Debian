@@ -1,0 +1,18 @@
+Gramps for Debian
+-----------------
+
+Version 5.0 of gramps adds the option of using a new database backend called
+DB_API, as an alternative to the default BSDDB (Berkeley).
+
+Two DB-API SQL engines have been developed, sqlite3 and postgresql. Compared
+to BSDDB, the alternative backends have beend designed allow some flexibility
+with respect to using the database with multiple users, or in multiple
+locations (different computers).
+
+For more details, please read the Gramps wiki:
+https://gramps-project.org/wiki/index.php?title=DB-API_Database_Backend
+
+Please note, this particular version is a pre-release version for testing.
+Please do not use it on your only copy of important genealogical data.
+
+ -- Ross Gammon <rossgammon@debian.org>  Mon, 19 Feb 2018 00:04:00 +0100
